@@ -1,2 +1,1 @@
-# CompletedAssessment
-CSS 1.4
+# starter-pete-thinkful-portfolio
